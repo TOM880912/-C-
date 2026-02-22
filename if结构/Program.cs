@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 namespace if结构
 {
     internal class Program
@@ -17,7 +16,7 @@ namespace if结构
             //{
             //    Console.WriteLine("不用做饭");
             //}
-            //else
+            //else我们好我们闲时间基本上创建多少钱啊项
             //{
             //    Console.WriteLine("做饭");
             //}
